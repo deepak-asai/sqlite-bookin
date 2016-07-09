@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sqlite-booking</string>
+    <string name="delete">delete</string>
+    <string name="add">add</string>
+    <string name="name">name</string>
+    <string name="name2">name</string>
+</resources>
